@@ -55,7 +55,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 //from android studio
-
+// from github
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun LogIn() {
