@@ -54,6 +54,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+//from android studio
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
